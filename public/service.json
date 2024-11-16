@@ -2,57 +2,57 @@
   {
     "id": 1,
     "treatment": "Dental Implant",
-    "image": "https://images.unsplash.com/photo-1606813905582-e94d48b12053",
-    "description": "A permanent solution to replace missing teeth with a natural look and feel.",
+    "image": "https://i.ibb.co.com/C2kzxJn/dental-implant.jpg",
+    "description": "Dental implants provide a state-of-the-art solution for individuals with missing teeth, offering unmatched durability and a natural look. This procedure involves surgically placing a titanium post into the jawbone, which acts as an artificial tooth root. Over time, the implant integrates with the bone through a process called osseointegration, ensuring stability and strength. Once healed, a custom-made crown is attached to the implant, mimicking the appearance and function of a real tooth. Dental implants not only restore aesthetics but also improve oral functionality, allowing you to chew and speak confidently. They help maintain the jawbone's structure, preventing bone loss commonly associated with missing teeth. Unlike traditional dentures, implants are fixed in place, eliminating concerns about slipping or discomfort. The procedure is tailored to meet individual needs, ensuring precise placement and optimal results. With proper care, implants can last a lifetime, making them a worthwhile investment in your oral health. Regular dental check-ups and good hygiene practices are essential to maintain their longevity. Whether replacing a single tooth, multiple teeth, or supporting dentures, dental implants offer a reliable and transformative solution, giving you the confidence to smile and live life to the fullest.",
     "cost": 1200
   },
   {
     "id": 2,
     "treatment": "Teeth Whitening",
-    "image": "https://images.unsplash.com/photo-1588776814546-1ab6aadebc2e",
-    "description": "Brighten your smile with safe and effective whitening techniques.",
+    "image": "https://i.ibb.co.com/z5rfzJx/Teeth-Whitening.jpg",
+    "description": "Teeth whitening is a highly sought-after cosmetic dental procedure designed to remove stains and brighten smiles. Over time, factors like coffee, tea, wine, smoking, and aging can discolor teeth, leaving them dull or yellowed. Professional teeth whitening uses advanced techniques and safe whitening agents to restore the natural whiteness of your teeth effectively. The procedure is quick, painless, and delivers noticeable results, often in just one visit. By choosing professional treatment, you avoid the risks associated with over-the-counter products, ensuring a safer and more consistent outcome. Teeth whitening not only enhances your smile but also boosts your confidence, making social and professional interactions more enjoyable. The treatment is tailored to your specific needs, whether you require a subtle enhancement or a dramatic transformation. Maintaining good oral hygiene and avoiding stain-causing habits can prolong the results, ensuring your smile remains radiant for months or even years. Ideal for special occasions or everyday confidence, teeth whitening is a non-invasive way to rejuvenate your appearance. Trust the expertise of dental professionals to provide a comfortable experience and a brighter, healthier-looking smile that leaves a lasting impression.",
     "cost": 300
   },
   {
     "id": 3,
     "treatment": "Root Canal Therapy",
-    "image": "https://images.unsplash.com/photo-1598550437934-38aef51f9fdf",
-    "description": "Relieve tooth pain by treating infected or damaged tooth pulp.",
+    "image": "https://i.ibb.co.com/Q8gKqSC/Root-Canal-Therapy.jpg",
+    "description": "Root canal therapy is a crucial dental procedure aimed at saving teeth affected by severe decay or infection. When the pulp inside a tooth becomes inflamed or infected, it can cause intense pain and sensitivity. Root canal treatment involves carefully removing the damaged pulp, thoroughly cleaning the root canals, and sealing them to prevent further infection. This procedure is often a preferable alternative to tooth extraction, as it allows you to retain your natural tooth structure. Modern advancements in dental technology have made root canals more comfortable and efficient than ever, often completed in one or two visits. After the treatment, the tooth is typically restored with a crown or filling, ensuring durability and full functionality. Root canal therapy not only alleviates pain but also protects surrounding teeth from shifting and helps maintain a healthy bite. With proper care, teeth that have undergone root canal therapy can last a lifetime. Regular dental check-ups and good oral hygiene are essential to ensure the success of the treatment. This effective and transformative procedure restores your oral health, allowing you to chew, speak, and smile confidently without discomfort or concern.",
     "cost": 800
   },
   {
     "id": 4,
     "treatment": "Dental Crowns",
-    "image": "https://images.unsplash.com/photo-1579154204601-503a83a9f49e",
-    "description": "Protect and restore the function of damaged teeth with durable crowns.",
+    "image": "https://i.ibb.co.com/Kw04kyG/gettyimages-1283560300-612x612.jpg",
+    "description": "Dental crowns are custom-designed caps that cover the entire visible portion of a damaged or weakened tooth. These restorations protect the tooth, restore its shape and size, and improve its overall appearance. Crowns are often recommended for teeth that have undergone root canal therapy, have large fillings, or are cracked, decayed, or discolored. They provide a durable and long-lasting solution, with materials such as porcelain or ceramic ensuring a natural look. Dental crowns not only strengthen teeth but also enhance their functionality, enabling you to chew and speak with ease. The procedure involves shaping the existing tooth, taking precise impressions, and crafting a custom crown that fits seamlessly into your smile. Once placed, crowns are virtually indistinguishable from natural teeth. They are resistant to stains and wear, offering years of reliable performance with proper care. Regular brushing, flossing, and dental check-ups help maintain their longevity. Whether used for restorative or cosmetic purposes, dental crowns are a versatile solution that boosts your oral health and confidence. Trust this proven treatment to restore beauty and functionality to your smile while preserving the health of your natural teeth.",
     "cost": 900
   },
   {
     "id": 5,
     "treatment": "Orthodontic Braces",
-    "image": "https://images.unsplash.com/photo-1598196749470-a8166d7c8c6e",
-    "description": "Align and straighten teeth for a healthier, more confident smile.",
+    "image": "https://i.ibb.co.com/DYz9xHs/Orthodontic-Braces.jpg",
+    "description": "Orthodontic braces are a tried-and-true solution for straightening misaligned teeth and correcting bite issues. Braces work by applying gentle, continuous pressure to the teeth, gradually moving them into the desired position. They are highly effective for treating problems such as overcrowding, spacing, overbites, underbites, and crossbites. Modern orthodontics offers a variety of options, including traditional metal braces, ceramic braces, and clear aligners, catering to different aesthetic and lifestyle preferences. The treatment process typically spans 12 to 24 months, with periodic adjustments to ensure steady progress. While wearing braces, maintaining good oral hygiene is crucial to prevent plaque buildup and cavities. The benefits of orthodontic treatment extend beyond aesthetics, as properly aligned teeth improve oral health, reduce the risk of gum disease, and enhance chewing efficiency. Additionally, braces can boost self-esteem by creating a confident, radiant smile. After completing treatment, a retainer is often used to maintain the results. Orthodontic braces are a transformative investment in both your appearance and long-term dental health. Trust this effective method to achieve a perfectly aligned smile that radiates confidence and promotes overall well-being.",
     "cost": 2500
   },
   {
     "id": 6,
     "treatment": "Tooth Extraction",
-    "image": "https://images.unsplash.com/photo-1586297135537-33c98d8e8e92",
-    "description": "Safe removal of damaged or problematic teeth with minimal discomfort.",
+    "image": "https://i.ibb.co.com/m5rgWhF/Tooth-Extraction.jpg",
+    "description": "Tooth extraction is a common dental procedure performed to remove damaged, decayed, or problematic teeth that cannot be saved. It may also be necessary for orthodontic treatment, overcrowding, or impacted wisdom teeth. The procedure is conducted with utmost care and advanced techniques to ensure minimal discomfort and a smooth recovery. Depending on the complexity, extractions may be simple or surgical. Local anesthesia is used to numb the area, making the process virtually painless. After the extraction, the dentist provides detailed post-operative instructions to promote healing and prevent complications. Recovery time varies but typically involves a few days of rest and care. Tooth extraction can pave the way for restorative options such as implants or bridges, ensuring functionality and aesthetics are restored. It also prevents the spread of infection or damage to neighboring teeth. With a focus on patient comfort and safety, tooth extractions are performed efficiently, ensuring a positive experience. Regular dental visits and maintaining good oral hygiene can help prevent the need for extractions in the future. Trust professional care to address your dental needs and maintain your oral health.",
     "cost": 200
   },
   {
     "id": 7,
     "treatment": "Dental Fillings",
-    "image": "https://images.unsplash.com/photo-1584911528307-2766f3ae5b57",
-    "description": "Repair cavities and restore your tooth structure effectively.",
+    "image": "https://i.ibb.co.com/DYz9xHs/Orthodontic-Braces.jpg",
+    "description": "Dental fillings are a fundamental restorative treatment designed to repair teeth affected by cavities or minor fractures. This procedure involves removing the decayed portion of the tooth and filling the area with materials like composite resin, amalgam, or porcelain. Fillings not only restore the tooth’s structure and functionality but also prevent further decay, preserving your oral health. Modern dental fillings are designed to blend seamlessly with your natural teeth, offering both durability and aesthetics. The procedure is quick, minimally invasive, and typically completed in a single visit. Local anesthesia ensures a comfortable experience, and the results are long-lasting with proper care. Fillings play a crucial role in maintaining your oral health by restoring damaged teeth and preventing the progression of decay. Regular dental check-ups and good oral hygiene practices help extend the life of your fillings. Whether addressing small cavities or repairing minor damage, dental fillings provide an effective and affordable solution for maintaining a healthy, confident smile. Trust this reliable treatment to protect your teeth and enhance your overall dental well-being.",
     "cost": 150
   },
   {
     "id": 8,
     "treatment": "Gum Disease Treatment",
-    "image": "https://images.unsplash.com/photo-1600409050448-b7d3e2d8b2c7",
-    "description": "Comprehensive care to prevent and treat gum-related issues.",
+    "image": "https://i.ibb.co.com/Bg7dMQs/gettyimages-1187078488-612x612.jpg",
+    "description": "Gum disease treatment focuses on preventing, managing, and reversing gum-related issues that can compromise oral health. Gum disease, or periodontal disease, begins with gingivitis, which causes inflammation, redness, and bleeding of the gums. Without intervention, it can progress to periodontitis, leading to gum recession, tooth loss, and jawbone damage. Treatment options depend on the severity of the condition and may include professional cleaning, scaling, root planing, or surgical procedures like flap surgery and bone grafting. Advanced techniques and specialized tools ensure effective removal of plaque and tartar, promoting gum healing and restoring oral health. Alongside in-office treatments, maintaining good oral hygiene and using prescribed antimicrobial mouthwashes are essential for long-term success. Gum disease treatment not only addresses immediate concerns but also reduces the risk of systemic health issues linked to gum infections, such as heart disease and diabetes. Early detection and consistent care are key to managing gum health and ensuring a confident smile. Trust professional expertise to provide comprehensive care, improve gum health, and safeguard your overall well-being.",
     "cost": 700
   }
 ]

@@ -3,48 +3,56 @@
     "reviewId": 1,
     "name": "Emily Carter",
     "userImg": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6",
-    "review": "The dental team was amazing! My implant feels just like a natural tooth. Highly recommended."
+    "review": "The dental team was amazing! My implant feels just like a natural tooth. Highly recommended.",
+    "rating": 5
   },
   {
     "reviewId": 2,
     "name": "James Smith",
     "userImg": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
-    "review": "Great experience with teeth whitening. The results were visible and long-lasting. Loved the service!"
+    "review": "Great experience with teeth whitening. The results were visible and long-lasting. Loved the service!",
+    "rating": 4
   },
   {
     "reviewId": 3,
     "name": "Sophia Johnson",
     "userImg": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
-    "review": "Had a root canal treatment here. The process was painless and the care was exceptional."
+    "review": "Had a root canal treatment here. The process was painless and the care was exceptional.",
+    "rating": 5
   },
   {
     "reviewId": 4,
     "name": "Daniel Lee",
     "userImg": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
-    "review": "The dental crowns they provided were of excellent quality. My smile has never looked better!"
+    "review": "The dental crowns they provided were of excellent quality. My smile has never looked better!",
+    "rating": 5
   },
   {
     "reviewId": 5,
     "name": "Olivia Brown",
     "userImg": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
-    "review": "Braces changed my life! The orthodontic team was so supportive throughout my treatment."
+    "review": "Braces changed my life! The orthodontic team was so supportive throughout my treatment.",
+    "rating": 4
   },
   {
     "reviewId": 6,
     "name": "Michael Wilson",
-    "userImg": "https://images.unsplash.com/photo-1502767089025-6572583495b9",
-    "review": "Had a tooth extraction here. It was quick, and the post-procedure care was fantastic."
+    "userImg": "https://i.ibb.co.com/x3HtTG8/images.jpg",
+    "review": "Had a tooth extraction here. It was quick, and the post-procedure care was fantastic.",
+    "rating": 4
   },
   {
     "reviewId": 7,
     "name": "Isabella Davis",
     "userImg": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
-    "review": "The fillings were done perfectly. The dentist ensured everything was pain-free and smooth."
+    "review": "The fillings were done perfectly. The dentist ensured everything was pain-free and smooth.",
+    "rating": 5
   },
   {
     "reviewId": 8,
     "name": "Ethan Martinez",
     "userImg": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263",
-    "review": "Their gum disease treatment worked wonders for me. My gums are healthier than ever!"
+    "review": "Their gum disease treatment worked wonders for me. My gums are healthier than ever!",
+    "rating": 4.5
   }
 ]
