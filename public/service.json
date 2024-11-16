@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Dental Implant",
+    "image": "https://images.unsplash.com/photo-1606813905582-e94d48b12053",
+    "description": "A permanent solution to replace missing teeth with a natural look and feel.",
+    "cost": 1200
+  },
+  {
+    "id": 2,
+    "treatment": "Teeth Whitening",
+    "image": "https://images.unsplash.com/photo-1588776814546-1ab6aadebc2e",
+    "description": "Brighten your smile with safe and effective whitening techniques.",
+    "cost": 300
+  },
+  {
+    "id": 3,
+    "treatment": "Root Canal Therapy",
+    "image": "https://images.unsplash.com/photo-1598550437934-38aef51f9fdf",
+    "description": "Relieve tooth pain by treating infected or damaged tooth pulp.",
+    "cost": 800
+  },
+  {
+    "id": 4,
+    "treatment": "Dental Crowns",
+    "image": "https://images.unsplash.com/photo-1579154204601-503a83a9f49e",
+    "description": "Protect and restore the function of damaged teeth with durable crowns.",
+    "cost": 900
+  },
+  {
+    "id": 5,
+    "treatment": "Orthodontic Braces",
+    "image": "https://images.unsplash.com/photo-1598196749470-a8166d7c8c6e",
+    "description": "Align and straighten teeth for a healthier, more confident smile.",
+    "cost": 2500
+  },
+  {
+    "id": 6,
+    "treatment": "Tooth Extraction",
+    "image": "https://images.unsplash.com/photo-1586297135537-33c98d8e8e92",
+    "description": "Safe removal of damaged or problematic teeth with minimal discomfort.",
+    "cost": 200
+  },
+  {
+    "id": 7,
+    "treatment": "Dental Fillings",
+    "image": "https://images.unsplash.com/photo-1584911528307-2766f3ae5b57",
+    "description": "Repair cavities and restore your tooth structure effectively.",
+    "cost": 150
+  },
+  {
+    "id": 8,
+    "treatment": "Gum Disease Treatment",
+    "image": "https://images.unsplash.com/photo-1600409050448-b7d3e2d8b2c7",
+    "description": "Comprehensive care to prevent and treat gum-related issues.",
+    "cost": 700
+  }
+]
