@@ -1,9 +1,11 @@
 import moment from "moment";
 import React from "react";
-import ReactStars from "react-rating-stars-component";
+import Rating from "react-rating";
+import { CiStar } from "react-icons/ci";
+import { FaStar } from "react-icons/fa";
 
 const FeedBack = ({ feedbackData }) => {
-  console.log(feedbackData);
+  console.dir(new Date());
   return (
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 my-10">
       {feedbackData.map((feed) => (
@@ -31,14 +33,12 @@ const FeedBack = ({ feedbackData }) => {
                   size={24}
                   activeColor="#ffd700"
                 /> */}
-                <ReactStars
-                  count={feed.rating}
-                  size={24}
-                  isHalf={true}
-                  emptyIcon={<i className="far fa-star"></i>}
-                  halfIcon={<i className="fa fa-star-half-alt"></i>}
-                  fullIcon={<i className="fa fa-star"></i>}
-                  activeColor="#ffd700"
+                <Rating
+                  initialRating={feed.rating}
+                  readonly
+                  emptySymbol={<CiStar />}
+                  fullSymbol={<FaStar />}
+                  fractions={2}
                 />
                 <p className="font-bold">{feed.rating}</p>
               </div>

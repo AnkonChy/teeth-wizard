@@ -15,7 +15,9 @@ const Navbar = () => {
         <NavLink to="/profile">Profile</NavLink>
       </div>
       <div>
-        <button className="btn mr-4">Login</button>
+        <NavLink to="/login">
+          <button className="btn mr-4">Login</button>
+        </NavLink>
       </div>
     </div>
   );

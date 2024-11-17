@@ -4,6 +4,9 @@ import Home from "../components/Home/Home";
 import AllTreatments from "../components/AllTreatments/AllTreatments";
 import MyAppointments from "../components/MyAppointments/MyAppointments";
 import Profile from "../components/Profile/Profile";
+import Details from "../components/Details/Details";
+import Login from "../components/Login/Login";
+import Register from "../components/Register/Register";
 
 const router = createBrowserRouter([
   {
@@ -36,6 +39,24 @@ const router = createBrowserRouter([
       {
         path: "/profile",
         element: <Profile></Profile>,
+      },
+      {
+        path: "/details/:id",
+        element: <Details></Details>,
+        loader: async ({ params }) => {
+          const res = await fetch("/service.json");
+          const data = await res.json();
+          const singleData = data.find((d) => d.id == params.id);
+          return singleData;
+        },
+      },
+      {
+        path: "/login",
+        element: <Login></Login>,
+      },
+      {
+        path: "/register",
+        element: <Register></Register>,
       },
     ],
   },
